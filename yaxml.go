@@ -43,6 +43,9 @@ func Merge(to Tree, from Tree) {}
 func MergeAll(arr ...Tree)     {}
 func MergeList(arr []Tree)     {}
 
+// TODO: Short version of Tree for simple reports (url+title...)
+func Short() {}
+
 // --------------------------------------------------------------------------
 // XML Root
 type Tree struct {
@@ -53,8 +56,17 @@ type Tree struct {
 
 // --------------------------------------------------------------------------
 // Common blocks
+
+// InnerXML required for fields where <hlword> could be found
 type InnerXML struct {
 	Content string `xml:",innerxml"`
+}
+
+// Common tag
+type Relevance struct { // We miss you...
+	// <relevance priority="phrase">104363467</relevance>
+	Relevance string `xml:",chardata"`     // ALARM <- panic on int
+	Priority  string `xml:"priority,attr"` // ALARM
 }
 
 // Extract highlighted text
@@ -103,25 +115,20 @@ type ResponseResultsGroupingPage struct {
 	Last  int `xml:"last,attr"`
 }
 type ResponseResultsGroupingGroup struct {
-	Categ     []ResponseResultsGroupingGroupCateg   `xml:"categ"` // ALARM !<categ attr=">d<"
-	Doccount  int                                   `xml:"doccount"`
-	Relevance ResponseResultsGroupingGroupRelevance `xml:"relevance"`
-	Doc       []ResponseResultsGroupingGroupDoc     `xml:"doc"`
+	Categ     []ResponseResultsGroupingGroupCateg `xml:"categ"` // ALARM !<categ attr=">d<"
+	Doccount  int                                 `xml:"doccount"`
+	Relevance Relevance                           `xml:"relevance"`
+	Doc       []ResponseResultsGroupingGroupDoc   `xml:"doc"`
 }
 type ResponseResultsGroupingGroupCateg struct {
 	Categ string `:",chardata"` // ALARM!!
 	Attr  string `xml:"attr,attr"`
 	Name  string `xml:"name,attr"` // hostname
 }
-type ResponseResultsGroupingGroupRelevance struct {
-	// history <relevance priority="phrase">104363467</relevance>
-	Relevance string `xml:",chardata"`     // ALARM <-  panic on int
-	Priority  string `xml:"priority,attr"` // ALARM
-}
 
 type ResponseResultsGroupingGroupDoc struct {
 	Id         string                                    `xml:"id,attr"`
-	Relevance  ResponseResultsGroupingGroupDocRelevance  `xml:"relevance"`
+	Relevance  Relevance                                 `xml:"relevance"`
 	URL        string                                    `xml:"url"`
 	Domain     string                                    `xml:"domain"`
 	Title      InnerXML                                  `xml:"title"`
@@ -132,16 +139,13 @@ type ResponseResultsGroupingGroupDoc struct {
 	Passages   ResponseResultsGroupingGroupDocPassages   `xml:"passages"`
 	Properties ResponseResultsGroupingGroupDocProperties `xml:"properties"`
 }
-type ResponseResultsGroupingGroupDocRelevance struct {
-	ResponseResultsGroupingGroupRelevance
-}
 type ResponseResultsGroupingGroupDocPassages struct {
 	Passage []InnerXML `xml:"passage"`
 }
 
 type ResponseResultsGroupingGroupDocProperties struct {
-	// «0» — стандартный пассаж (сформирован из текста документа);
-	// «1» — пассаж на основе текста ссылки. Используется, если документ найден по ссылке.
+	// 0 — standart passage (on-page)
+	// 1 — anchor based (on-link)
 	PassagesType int    `xml:"_PassagesType"` // ALARM
 	Lang         string `xml:"lang"`
 }
