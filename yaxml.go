@@ -5,14 +5,31 @@ import (
 	"encoding/xml"
 	"error"
 	"io"
+	"io/ioutil"
 )
 
-type Tree struct{}
+// FIRST SAMPLE: <grouping attr="d" mode="deep" groups-on-page="100" docs-in-group="1" curcateg="-1">
 
+type Tree struct {
+}
+
+//
 func Parse(io.Reader) (Tree, error) {
 }
 
+// Debug values
+const (
+	DIR_SAMLE = "sample/"
+	CUR_SAMLE = DIR_SAMLE + "000a8adf88587086e242ca0303678cfa.xml.0"
+)
+
 func main() {
+	singlefile(CUR_SAMPLE)
+}
+
+func singlefile(f) {
+	file := ioutil.ReadFile(CUR_SAMLE)
+	// TODO: bububu
 }
 
 /*
