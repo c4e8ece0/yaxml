@@ -11,17 +11,17 @@ import (
 	"golang.org/x/net/html/charset"
 )
 
+// TODO: request-misspell nodes
+// TODO: request-reask nodes
+
 // ALARM: if > -1 RequestGroupingsGroupBy.CurCateg
 // ALARM: not closed <categ /> ResponseResultsGroupingGroupCateg
 // ALARM: exists yandex xml relevance <relevance priority="phrase">104363467</relevance>
 // ALARM: len(ResponseResultsGrouping) > 1
 // ALARM: len(ResponseResultsGroupingGroupDoc) > 1
 // ALARM: ResponseResultsGroupingGroupDocProperties.Type
-//
+
 // MISSED: https://tech.yandex.ru/xml/doc/dg/concepts/response_response-el-docpage/#misspell-block
-//
-// NOTICE: headline Для формирования используется HTML-тег meta, содержащий атрибут name со значением «description».
-// NOTICE: HLWORK (InnerXML) для объекта надо собирать отдельно
 
 // Make struct from xml
 func Parse(r io.Reader) (Tree, error) {
@@ -49,13 +49,13 @@ func Short() {}
 // --------------------------------------------------------------------------
 // XML Root
 type Tree struct {
-	XMLName xml.Name `xml:"yandexsearch"`
-	//Request  Request  `xml:"request"`
+	XMLName  xml.Name `xml:"yandexsearch"`
+	Request  Request  `xml:"request"`
 	Response Response `xml:"response"`
 }
 
 // --------------------------------------------------------------------------
-// Common blocks
+// Helpers
 
 // InnerXML required for fields where <hlword> could be found
 type InnerXML struct {
@@ -132,7 +132,7 @@ type ResponseResultsGroupingGroupDoc struct {
 	URL        string                                    `xml:"url"`
 	Domain     string                                    `xml:"domain"`
 	Title      InnerXML                                  `xml:"title"`
-	Headline   InnerXML                                  `xml:"headline"`
+	Headline   InnerXML                                  `xml:"headline"` // i.e. meta-description
 	ModTime    string                                    `xml:"modtime"`
 	Size       int                                       `xml:"size"`
 	Charset    string                                    `xml:"charset"`
@@ -178,8 +178,11 @@ type RequestGroupingsGroupBy struct {
 // --------------------------------------------------------------------------
 // Debug values
 const (
-	DIR_SAMPLE = "sample/"
-	CUR_SAMPLE = DIR_SAMPLE + "000a8adf88587086e242ca0303678cfa.xml.0"
+	FILE_MISSPELL = "000020b9fd4ce0a85f62881628ef9137.xml.0"
+	FILE_REASK    = "000228ace7127d8c78820e2fa463bc63.xml.0"
+	FILE_FIRST    = "000a8adf88587086e242ca0303678cfa.xml.0"
+	DIR_SAMPLE    = "sample/"
+	CUR_SAMPLE    = DIR_SAMPLE + FILE_FIRST
 )
 
 //

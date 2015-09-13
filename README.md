@@ -1,1 +1,5 @@
-# In progress. Do not use it. IT'S MINE!
+# TODO
+* RequestMisspell
+* RequestReask
+* Normal package
+* Tests
