@@ -73,7 +73,7 @@ type Relevance struct { // We miss you...
 func (x *InnerXML) HL() []string { return make([]string, 0) }
 
 // Extract clean text
-func (x *InnerXML) Text() []string { return make([]string, 0) }
+func (x *InnerXML) Text() string { return make([]string, 0) }
 
 // --------------------------------------------------------------------------
 // <response> block
