@@ -6,9 +6,15 @@ import (
 	//"charset"
 	"encoding/xml"
 	"io"
+	"regexp"
+	"strings"
 
 	"golang.org/x/net/html/charset"
 )
+
+// Function NoAlarm is default dummy alarmer
+// IT DOESN'T WORK
+func NoAlarm(s string) {}
 
 // Parse XML-file, closing io.Reader on the caller
 func Parse(r io.Reader) (XMLTree, error) {
@@ -25,10 +31,26 @@ type InnerXML struct {
 }
 
 // Extract highlighted text
-func (x *InnerXML) HL() []string { return make([]string, 0) }
+func (x *InnerXML) HL() []string {
+	s := x.Content
+	s = strings.Replace(s, "</hlword> <hlword>", " ", -1)
+
+	f := regexp.MustCompile(`<hlword>(.*?)</hlword>`)
+	r := []string{}
+	for _, pair := range f.FindAllStringSubmatch(s, -1) {
+		r = append(r, pair[1])
+	}
+
+	return r
+}
 
 // Extract clean text
-func (x *InnerXML) Text() []string { return make([]string, 0) }
+func (x *InnerXML) Text() string {
+	s := x.Content
+	s = strings.Replace(s, "<hlword>", "", -1)
+	s = strings.Replace(s, "</hlword>", "", -1)
+	return s
+}
 
 // --------------------------------------------------------------------------
 // XML Root

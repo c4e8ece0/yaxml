@@ -1,0 +1,4594 @@
+{
+	"Request": {
+		"Query": "Живали",
+		"Page": 0,
+		"SortBy": {
+			"SortBy": "rlv",
+			"Order": "descending",
+			"Priority": "no"
+		},
+		"MaxPassages": 5,
+		"Groupings": {
+			"GroupBy": [
+				{
+					"Attr": "d",
+					"Mode": "deep",
+					"GroupsOnPage": 100,
+					"DocsInGroup": 1,
+					"CurCateg": -1
+				}
+			]
+		}
+	},
+	"Response": {
+		"Date": "20150223T013402",
+		"ReqID": "1424655242413791-286864781868875622019999-6-064-XML-REASK",
+		"Found": [
+			{
+				"Found": 27327283,
+				"Priority": "phrase"
+			},
+			{
+				"Found": 27327283,
+				"Priority": "strict"
+			},
+			{
+				"Found": 27327283,
+				"Priority": "all"
+			}
+		],
+		"FoundHuman": "Нашлось 27 млн ответов",
+		"Misspell": {
+			"Rule": "",
+			"SourceText": {
+				"Content": ""
+			},
+			"Text": ""
+		},
+		"Reask": {
+			"Rule": "Misspell",
+			"SourceText": {
+				"Content": "Живали"
+			},
+			"Text": "Жива ли"
+		},
+		"Results": {
+			"Grouping": [
+				{
+					"Attr": "d",
+					"Mode": "deep",
+					"GroupsOnPage": 100,
+					"DocsInGroup": 1,
+					"CurCateg": -1,
+					"Found": [
+						{
+							"Found": 4015,
+							"Priority": "phrase"
+						},
+						{
+							"Found": 4015,
+							"Priority": "strict"
+						},
+						{
+							"Found": 4015,
+							"Priority": "all"
+						}
+					],
+					"FoundDocs": [
+						{
+							"Found": 16999901,
+							"Priority": "phrase"
+						},
+						{
+							"Found": 16999901,
+							"Priority": "strict"
+						},
+						{
+							"Found": 16999901,
+							"Priority": "all"
+						}
+					],
+					"FoundDocsHuman": "нашёл 17 млн ответов",
+					"Page": {
+						"Page": 0,
+						"First": 1,
+						"Last": 100
+					},
+					"Group": [
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "otvet.mail.ru"
+								}
+							],
+							"Doccount": 959789,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z4E390F68E0F687B8",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://otvet.mail.ru/question/98953650",
+									"Domain": "otvet.mail.ru",
+									"Title": {
+										"Content": "Ответы@Mail.Ru: \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e жанна фриске"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20140122T112945",
+									"Size": 136349,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "••• \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e жанна фриске. Сергей Султанов Ученик (98), закрыт. 1 год назад."
+											},
+											{
+												"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e и надеюсь выкарабкается, ведь она родила ребёночка, которого так хотела."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "besplatnyeprogrammy.ws"
+								}
+							],
+							"Doccount": 2,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z8F9184546829761D",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://BesplatnyeProgrammy.ws/zhiva-li-aska/",
+									"Domain": "BesplatnyeProgrammy.ws",
+									"Title": {
+										"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e аська? Пользуются \u003chlword\u003eли\u003c/hlword\u003e ещё кто-то аськой?"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20130403T090703",
+									"Size": 27564,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Интересная статья, на тему \u0026quot;\u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e аська?\u0026quot;, где рассказываются о изменении популярности данного способа общения и ссылки на загрузку популярных программ для."
+											},
+											{
+												"Content": "Но, несмотря на упадок, аська всё ещё \u003chlword\u003eжива\u003c/hlword\u003e, причем, скорее всего, \u003chlword\u003eжива\u003c/hlword\u003e она за счёт своих старых пользователей, которые не хотят переходить на скайп или социалки, а используют то, к чему уже привыкли и полюбили, если вы из таких, то рекомендую скачать аську бесплатно с нашего сайта..."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "mk.ru"
+								}
+							],
+							"Doccount": 255,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZC80133EBC4F8B333",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.mk.ru/social/article/2014/01/23/974850-zhanna-friske-zhiva-i-blagodarna-vsem-za-podderzhku.html",
+									"Domain": "www.mk.ru",
+									"Title": {
+										"Content": "Жанна Фриске \u003chlword\u003eжива\u003c/hlword\u003e и благодарна всем за поддержку - Общество - МК"
+									},
+									"Headline": {
+										"Content": "С молниеностной скоростью вечером в четверг по Интернету начала распространяться новость о том, что Жанна Фриске якобы умерла в этот день в онкологической клинике в Германии.Корреспонденты «МК», как и многие другие порядочные люди..."
+									},
+									"ModTime": "20140123T230320",
+									"Size": 112561,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": null
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "vritmezvezd.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZC87952AFDF92A3C7",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.vritmezvezd.ru/articles.php?article_id=45",
+									"Domain": "www.vritmezvezd.ru",
+									"Title": {
+										"Content": "...прогнозы, совместимость в бизнесе и браке. - Статьи: \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e девушка..."
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20090621T220917",
+									"Size": 22705,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Итак: \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e Светлана?;15.02.2008;14:06:28;+3 ;\u003chlword\u003eМосква\u003c/hlword\u003e, Московская обл., Россия;55°45'00\u0026quot;N;37°35'00\u0026quot;E; Девушка встречалась с одноклассниками, вышла из кафе покурить, сказав, что подождет их внизу. Когда одноклассники вышли на улицу, ее уже не было. У нее двое детей: старшему 10 лет и младшему 2 года."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "vk.com"
+								}
+							],
+							"Doccount": 573678,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z0808BB6FC122AC85",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://vk.com/topic-22276146_26580290",
+									"Domain": "vk.com",
+									"Title": {
+										"Content": "ОБСУЖДЕНИЕ: \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e Элисон? | МИЛЫЕ ОБМАНЩИЦЫ | ВКонтакте"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20120613T221522",
+									"Size": 87127,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Создать тему. Редактировать. ОБСУЖДЕНИЕ: \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e Элисон? Аня Русских."
+											},
+											{
+												"Content": "» В теме 96 сообщений. Аня Русских. \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e Эллисон? 11 июн 2012 в 1:21. Анастасия Глуханькова."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "woman.ru"
+								}
+							],
+							"Doccount": 8637,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z9DBD541164CE0893",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.woman.ru/health/medley7/thread/4152236/",
+									"Domain": "www.woman.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e таежная отшельница Агафья Лыкова? | форум Woman.ru"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20120216T003130",
+									"Size": 117226,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "где же она вы знаете \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e она и что с ней случилась кто знает напешите."
+											},
+											{
+												"Content": "Агафья Лыкова \u003chlword\u003eжива\u003c/hlword\u003e. Последнее время болеть сильно стала. Раньше,рассказывает Агафья,таких болезней не знала. Ноги,руки,спина все болит. Попросила о помощи в письме. Ей доставили продукты,лекарства,десять \u003chlword\u003eживых\u003c/hlword\u003e кур привезли."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "wikisource.org"
+								}
+							],
+							"Doccount": 450,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZDE2D2E77DC01CB7C",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://ru.wikisource.org/wiki/%D0%96%D0%B8%D0%B2%D0%B0_%D0%BB%D0%B8,_%D0%9A%D0%B0%D1%80%D1%88%D0%B8%D0%BD,_%D1%82%D1%8B%3F.._(%D0%A1%D1%83%D0%BC%D0%B0%D1%80%D0%BE%D0%BA%D0%BE%D0%B2)",
+									"Domain": "ru.wikisource.org",
+									"Title": {
+										"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e, Каршин, ты?.. (Сумароков) — Викитека"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20101231T153351",
+									"Size": 36095,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e, Каршин, ты? Коль ты \u003chlword\u003eжива\u003c/hlword\u003e, вспеваешь И муз не забываешь, Срывающа себе парнасские венцы? А я стихи читал, Которы ты слагала. Ты резко возлетала На гору, где Пегас крылатый возблистал."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "ruslitra.narod.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZD8D312711DF3B567",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://ruslitra.narod.ru/zhivroza.htm",
+									"Domain": "ruslitra.narod.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e роза?"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20101015T235909",
+									"Size": 11452,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e роза? Разговаривали Лис и Маленький принц: «— А на той планете есть охотники?"
+											},
+											{
+												"Content": "Вздохнем вслед Лису. И не раз еще вздрогнем посреди своего богатенького цивилизованного муравейника, когда тихо окликнет душа: «\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e та роза или ее уже нет?» И поднимем голову к звездам, надеясь увидеть свою планету."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "urusvati.ru"
+								}
+							],
+							"Doccount": 2,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZEBA85F4A96DBDB1E",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.urusvati.ru/ethics_alive.htm",
+									"Domain": "www.urusvati.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e этика? - Алисимчик Н.Г."
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20061120T012429",
+									"Size": 68450,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eЛи\u003c/hlword\u003e Этика? Газета «Арсеньевские вести», №№ 33,34 (2004 г.), г. Владивосток. Думаю, мало найдется людей, которые не слышали об учении \u003chlword\u003eЖивая\u003c/hlword\u003e Этика, записанном преимущественно Еленой Рерих, супругой и матерью двух величайших мыслителей и художников прошлого века."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "orthodoxy.ru"
+								}
+							],
+							"Doccount": 3,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z30B1F3EE9D308AA7",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://apocalypse.orthodoxy.ru/prodigy/213.htm",
+									"Domain": "apocalypse.orthodoxy.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e Пушкин?"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20110915T105211",
+									"Size": 62417,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Вопрос \u003chlword\u003eжив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e Пушкин, как \u003chlword\u003eживой\u003c/hlword\u003e ответ России на Реформы Петра, есть вопрос о том - \u003chlword\u003eживы\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e мы, \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e Историческая Россия. Поскольку Россия Зарубежная является одна свободным ее остатком - голос ее имеет великое значение, заставляя или скорбно поникнуть головою, или светло задуматься."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "youtube.com"
+								}
+							],
+							"Doccount": 172788,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z08133A332F1BD202",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.youtube.com/watch?v=dKEFzglsusA",
+									"Domain": "www.youtube.com",
+									"Title": {
+										"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e мода в кризис? - YouTube"
+									},
+									"Headline": {
+										"Content": "Алена Водонаева предлагает казнить всех российских дизайнеров. "
+									},
+									"ModTime": "20120424T171627",
+									"Size": 173195,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": null
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "tsvetayeva.com"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z1FFA40E920EA3718",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.tsvetayeva.com/poems/chto_muza.php",
+									"Domain": "www.tsvetayeva.com",
+									"Title": {
+										"Content": "Что, Муза моя! \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e еще?"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20060909T082500",
+									"Size": 23021,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "* * * Что, Муза моя! \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e еще?"
+											},
+											{
+												"Content": "Соседки, сердцами спутанные. Тюремное перестукиванье. Что Муза моя? \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e еще? Глазами не знать желающими, Усмешкою правду кроющими, Соседскими, справа-коечными. — Что, братец?"
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "topnews.ru"
+								}
+							],
+							"Doccount": 18,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZDCEFBC87F8F62029",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.topnews.ru/news_id_65034.html",
+									"Domain": "www.topnews.ru",
+									"Title": {
+										"Content": "Жанна Фриске, последние новости: в Сети появились скрытые фото..."
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20140201T173610",
+									"Size": 53892,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Вопреки то и дело появляющимся в Сети слухам о том, что Жанна Фриске умерла, певица \u003chlword\u003eжива\u003c/hlword\u003e и находится в Нью-Йорке, в одной из лучших онкологических клиник США под названием Memorial Sloan-Kettering, где проходит сейчас курс химиотерапии. Рядом с тяжелобольной Жанной Фриске находится её гражданский муж Дмитрий Шепелев и подруга Ольга Орлова, которая вылетела в Нью-Йорк неделю назад специально для того..."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "9111.ru"
+								}
+							],
+							"Doccount": 3622,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z9B1127D2E7A7731C",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.9111.ru/answers/titles/%D0%B6%D0%B8%D0%B2_%D0%BB%D0%B8_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA/",
+									"Domain": "www.9111.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖИВ\u003c/hlword\u003e \u003chlword\u003eЛИ\u003c/hlword\u003e ЧЕЛОВЕК - советы 13.378 адвокатов и юристов"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20120911T024033",
+									"Size": 167127,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Как узнать \u003chlword\u003eЖив\u003c/hlword\u003e \u003chlword\u003eЛи\u003c/hlword\u003e Человек? Мне нужно узнать \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eЛи\u003c/hlword\u003e Моя бабушка,позвонив в отдел ЗАГС по месту ее проживания(московская область),мне ответили ,что нужно явиться лично,но у меня нет такой возможности,я живу в приморском крае,могу \u003chlword\u003eЛи\u003c/hlword\u003e Я В своем отделении загса узнать нужную мне информацию?"
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "odinblago.ru"
+								}
+							],
+							"Doccount": 2,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZDD1C745968E737E5",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.odinblago.ru/path/25/1",
+									"Domain": "www.odinblago.ru",
+									"Title": {
+										"Content": "Артемьев Михаил \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e Россия? *) Журнал \u0026quot;Путь\u0026quot; №25"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20111223T165313",
+									"Size": 59380,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "А здесь, в соседней комнате от умирающей России, ее бедные затерявшиеся дети говорят о ее будущем, шумно спорят, кому властвовать. 4. в ней (или над ней), какие установить в ней порядки, какое придать ей политическое устройство, как распределять в ней ее национальное богатство в то время, как на территории СССР среди русских людей лишь одна тема: \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e еще Россия или Голгофа ее завершилась."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "donskoykazak.narod.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z42AD6A0129B601EE",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://donskoykazak.narod.ru/Rossia.html",
+									"Domain": "donskoykazak.narod.ru",
+									"Title": {
+										"Content": "Статья \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e Россия"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20061216T091432",
+									"Size": 12821,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Еще бы, путь к духовной смерти проще и приятнее, он легок и ровен, переливается красочными огнями электрических иллюминаций и фейерверков. Такой путь не требует никаких усилий. И в связи с тем, что путь к смерти и вырождению выбирает все большее число моих соотечественников, я хочу спросить, \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e Россия?"
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "our-aquarium.ru"
+								}
+							],
+							"Doccount": 4,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z7141D84D956A8800",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://our-aquarium.ru/forum/index.php?PHPSESSID=r5c8tgob59jts2bv1psq57b4g0\u0026topic=12402.0",
+									"Domain": "our-aquarium.ru",
+									"Title": {
+										"Content": "Как узнать \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e улитка ? | Форум"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20140822T202412",
+									"Size": 90182,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Подскажите как определить \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e улитка, она уже 2 дня лежит на дне без движений, и втянулась в раковину. Что за вид улитки я незнаю, но у неё панцирь весь в рожках и она полностью чёрная. Как бы определить \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e она ?"
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "sunhome.ru"
+								}
+							],
+							"Doccount": 212,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZF9B4BBAF53ED0ED6",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.SunHome.ru/poetry/186646",
+									"Domain": "www.SunHome.ru",
+									"Title": {
+										"Content": "А \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e?"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20111205T052418",
+									"Size": 62861,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "А \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e? Облучил. Обручил. Обучил. Отлучил... А \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e?"
+											},
+											{
+												"Content": "Опубликовано vbkbyf1 по теме Стихи о любви / Любовные стихи (Сборник: Мои стихи) 3 года назад. публикация А \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e? имеет 193 просмотра и 0 голосов."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "litlive.ru"
+								}
+							],
+							"Doccount": 2,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z4BE024B9B64F107C",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://litlive.ru/topics/recenzii/viewpost/2721__%D0%96%D0%B8%D0%B2%D0%B0_%D0%BB%D0%B8_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_.html",
+									"Domain": "litlive.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e литература? | Рецензии | \u003chlword\u003eЖивая\u003c/hlword\u003e Литература"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20130811T130812",
+									"Size": 94228,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Важно то, что \u0026quot;Заговор обезьян\u0026quot; поднимает глобальные темы через обыденную жизнь. И автору романа и рецензенту - респект! В отличии от Василия Авченко ( \u0026quot;Ходорковский за правм рулем\u0026quot; он увидел в книге главное - \u003chlword\u003eживую\u003c/hlword\u003e жизнь."
+											},
+											{
+												"Content": "Отвечу на самый главный вопрос автора рецензии - \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e литература?"
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "arsvest.ru"
+								}
+							],
+							"Doccount": 4,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z15A41B8B0FCE6B5F",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.arsvest.ru/archive/issue597/world/view5447.html",
+									"Domain": "www.arsvest.ru",
+									"Title": {
+										"Content": "газета Приморья \u0026quot;АВ\u0026quot; // Вселенная // \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e этика?"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20051119T211314",
+									"Size": 31932,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e этика? Надежда АЛИСИМЧИК."
+											},
+											{
+												"Content": "Самая преданная из всех преданных Учению \u003chlword\u003eЖивая\u003c/hlword\u003e Этика, бриллиант в короне нравственности. При личной встрече во время поездки Валентина Сидорова в Америку она предлагала ему перевезти наследие музея Рерихов в Россию."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "female-look.ru"
+								}
+							],
+							"Doccount": 4,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZECE38D324115BDB9",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://female-look.ru/my-text/kak-ponyat-zhiva-li-loshad.html",
+									"Domain": "female-look.ru",
+									"Title": {
+										"Content": "Как понять, \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e лошадь | Счастье - дело Твоих рук"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20140526T064443",
+									"Size": 60692,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Как понять, \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e лошадь. автор: Надежда Майер Опубликовано 25.05.2014."
+											},
+											{
+												"Content": "Отношения, как везущая нас к целевому состояния счастья лошадь, \u003chlword\u003eживы\u003c/hlword\u003e и здоровы, пока это так, как сказано в предыдущем абзаце. Эта условная лошадь может быть нужна нам по самым разным причинам."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "ouc.ru"
+								}
+							],
+							"Doccount": 5,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z2D14E297F6EAFEBF",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://cvetaeva.ouc.ru/contacts/chto-muza-moja-jiva-li-eshe.html",
+									"Domain": "cvetaeva.ouc.ru",
+									"Title": {
+										"Content": "Марина Цветаева. | «Что, Муза моя! \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e еще?..»"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20100316T211524",
+									"Size": 189331,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Что, Муза моя! \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e еще? Так узник стучит к товарищу. В слух, в ямку, перстом продолбленную -. Что Муза моя? Надолго \u003chlword\u003eли\u003c/hlword\u003e ей? Соседки, сердцами спутанные. Тюремное перестукиванье. Что Муза моя? \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e еще? Глазами не знать желающими"
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "igpr.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZCD2AADB7430DEEFB",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://igpr.ru/articles/zhiv_li_elcin",
+									"Domain": "igpr.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e Ельцин? | За ответственную власть!"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20110709T101739",
+									"Size": 67143,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Тема \u0026quot;\u003chlword\u003eжив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e Ельцин\u0026quot; читателей нашей газеты в покое не оставляет. Характерным для других подобных писем и вопросов является письмо нашей читательницы из Ставрополя."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "galya.ru"
+								}
+							],
+							"Doccount": 17161,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z5F8BEB37E868066F",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.galya.ru/clubs/show.php?id=631204",
+									"Domain": "www.galya.ru",
+									"Title": {
+										"Content": "Как вы считаете, можно \u003chlword\u003eли\u003c/hlword\u003e по фото определить, \u003chlword\u003eжив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e человек? говорят..."
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20120724T152927",
+									"Size": 287447,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "А у 1 ,возможно,какие то серьезные проблемы. Мне кажется женщины с 3 фото нет в \u003chlword\u003eживых\u003c/hlword\u003e, как будто в прошлом она осталась, а остольные \u003chlword\u003eживы\u003c/hlword\u003e, напишите в личку, очень интересно... Первая \u003chlword\u003eжива\u003c/hlword\u003e. Замужем, но детей не вижу, Вторая не \u003chlword\u003eжива\u003c/hlword\u003e. умерла где-то вне дома, может даже вне своего города. у третей что-то с кровью, может варикоз, не могу понять. 2я мне так кажется. извиняюсь. я тоже так предположила."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "ikusishop.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z652695DC948C035F",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.ikusishop.ru/content/page/jiva-li-janna-friske/",
+									"Domain": "www.ikusishop.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e жанна фриске - знакомим с информацией. Обновленные..."
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20150107T022237",
+									"Size": 7938,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e жанна фриске - добавлено по просьбе Елена Поплавская . Жанна \u003chlword\u003eжива\u003c/hlword\u003e — дай Бог здоровья всем! Сестра – Наталья \u003chlword\u003eжива\u003c/hlword\u003e до сих пор и одно время тоже пела в той же группе, где и Жанна."
+											},
+											{
+												"Content": "Дата добавления: 24.05.2013 Скорость скачивания: 10264 Кб/сек. Файл: \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e жанна фриске. Смотрите также"
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "websad.ru"
+								}
+							],
+							"Doccount": 218,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z36878098E78D3152",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.websad.ru/archdis.php?code=298917",
+									"Domain": "www.websad.ru",
+									"Title": {
+										"Content": "WEB САД - Архив форума - \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e съедобная жимолость ?"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20070328T040000",
+									"Size": 175552,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e съедобная жимолость ? Оба куста стали распускаться в середине января. По состоянию на сегодня у кустов вместо почек-труха. По идее кусты погибнуть не должны, но, может кто подскажет, какие меры я должен предпринять и можно \u003chlword\u003eли\u003c/hlword\u003e вообще что-то сделать."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "thejournal.ru"
+								}
+							],
+							"Doccount": 2,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z1EBF038B9DFFF8AA",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.thejournal.ru/",
+									"Domain": "www.thejournal.ru",
+									"Title": {
+										"Content": "TheJournal.ru - \u003chlword\u003eживые\u003c/hlword\u003e журналы сетевых обитателей"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20070617T151032",
+									"Size": 38831,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "зашла тут пыль стряхнуть. Соскучилась по всем друзьям. Как вы тут, \u003chlword\u003eживы\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e? все \u003chlword\u003eли\u003c/hlword\u003e у вас как и раньше… Акси, Кир, Таша, Копытце, оранг… я вас всех люблю и помню...."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "mega-stars.ru"
+								}
+							],
+							"Doccount": 171,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z89BABECD3B6F7726",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.mega-stars.ru/starsnews/2012.12.03-marina_vladi_zhiva.php",
+									"Domain": "www.mega-stars.ru",
+									"Title": {
+										"Content": "Марина Влади \u003chlword\u003eжива\u003c/hlword\u003e"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20121203T161603",
+									"Size": 56931,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Марина Влади \u003chlword\u003eжива\u003c/hlword\u003e. 2 декабря Рунет буквально взорвался от обсуждения слухов о смерти Марины Влади, известнейшей французской актрисы и вдовы Владимира Семёновича Высоцкого. Телеведущая Светлана Конеген первой написала об этом печальном событии на своей странице в Facebook, ограничив, правда, эту запись только для чтения друзьями."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "rusimper.narod.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZB23DBC20BC079CE7",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://rusimper.narod.ru/r/anastasia.html",
+									"Domain": "rusimper.narod.ru",
+									"Title": {
+										"Content": "Российские императоры || \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e анастасия романова"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20110510T161543",
+									"Size": 12917,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "\u003chlword\u003eЖИВА\u003c/hlword\u003e \u003chlword\u003eЛИ\u003c/hlword\u003e АНАСТАСИЯ РОМАНОВА мнения посетителей сайта. Недавно по телевидению была показана старая женщина, которая утверждает, что она младшая дочь императора Николая Второго (впоследствии полковника царской армии Николая Александровича Романова) - Анастасия. ваши комментарии |."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "kuraev.ru"
+								}
+							],
+							"Doccount": 38,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZA81C6D04B15ABDE8",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://kuraev.ru/smf/index.php?topic=159287.0",
+									"Domain": "kuraev.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e русская идея? | Форум Кураева"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20080621T035307",
+									"Size": 92576,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Но не мы сами определяем кто свят, а кто - нет, и, называя Русь Святою, мы преклоняемся перед святостью Идеи, за которую Русь стояла насмерть. Теперь мне хочется спросить у всех, для кого Россия есть мать, \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e эта идея сегодня, сейчас? И если \u003chlword\u003eжива\u003c/hlword\u003e, то почему потеряна вера в нее?"
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "aif.ru"
+								}
+							],
+							"Doccount": 36,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z3AFF67EB32DBCA3A",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.aif.ru/society/27164",
+									"Domain": "www.aif.ru",
+									"Title": {
+										"Content": "Ванга \u003chlword\u003eжива\u003c/hlword\u003e? Её племянница верит: она не исчезла | Общество | Аргументы..."
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20110810T001909",
+									"Size": 178344,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e ваша прорицательница, \u003chlword\u003eжива\u003c/hlword\u003e, что рассопливелись? Здесь она, с тем господином, кому прислуживала, от чьего имени прорицала. Ждет Суда со всей развеселой компашкой."
+											},
+											{
+												"Content": "Если бы вы могли завести питомца, вы бы взяли его из приюта? Нет, я бы купил(-а) котенка или щенка той породы, которая мне нравится. Взял(-а) бы, это правильно — спасти хоть одну \u003chlword\u003eживую\u003c/hlword\u003e душу. Не знаю, никогда об этом не думал(-а)."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "33b.eu"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z3AF17EBCD546A7DE",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://club.33b.eu/topic5148",
+									"Domain": "club.33b.eu",
+									"Title": {
+										"Content": "33b.ru » Так что, \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e еще романтика?"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20111015T212723",
+									"Size": 77686,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Добавлено: 08 авг. 2005 20:59 Заголовок сообщения: Так что, \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e еще романтика? Романтика...Ээээх, как редко она сейчас попадается!Вот вы в нее верите, или нет, а ?Вот я, напрмер верю, хотя сейчас это считается ненормально-тронутым явлением.Ах, как жаль.Так что, вы верите в романтику, или нет?И относите \u003chlword\u003eли\u003c/hlword\u003e вы себя к романтикам?"
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "ans4.com"
+								}
+							],
+							"Doccount": 60,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z7247AF6865FDBD9B",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://rus.ans4.com/3119034/pravda-li-chto-glyukoza-umerla/",
+									"Domain": "rus.ans4.com",
+									"Title": {
+										"Content": "Правда \u003chlword\u003eли\u003c/hlword\u003e, что Глюкоза умерла - Анс4"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20130902T212124",
+									"Size": 22914,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Правда \u003chlword\u003eли\u003c/hlword\u003e, что Глюкоза умерла? Нет, певица Глюкоза \u003chlword\u003eжива\u003c/hlword\u003e. Добавить ваш ответ."
+											},
+											{
+												"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e глюкоза?"
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "eva.ru"
+								}
+							],
+							"Doccount": 10,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z53E8526A2FE029DA",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://eva.ru/finance-and-realty/messages-2870896.htm",
+									"Domain": "eva.ru",
+									"Title": {
+										"Content": "Как узнать \u003chlword\u003eжив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e человек?"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20130425T023538",
+									"Size": 76571,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "так бы и сказали а по вашему вопросу \u0026quot;как узнать \u003chlword\u003eжив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e\u0026quot; можно предположить, что есть человек, местонахождение которого неизвестно даже есго родственникам (\u0026quot;через родственников найти его невозможно\u0026quot; ), и вы хотите знать \u003chlword\u003eжив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e он, тогда как вам нужно узнать нет \u003chlword\u003eли\u003c/hlword\u003e данных о смерти такого то гражданина по месту его жительства."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "qq.by"
+								}
+							],
+							"Doccount": 39,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z9FD6C5D4203B8267",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://qq.by/160-mozhno-li-uznat-zhiv-li-chelovek.html",
+									"Domain": "qq.by",
+									"Title": {
+										"Content": "Можно \u003chlword\u003eли\u003c/hlword\u003e узнать, \u003chlword\u003eжив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e человек?"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20100514T222222",
+									"Size": 34524,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Можно \u003chlword\u003eли\u003c/hlword\u003e узнать, \u003chlword\u003eжив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e человек? Возможности обратиться напрямую (письмо, родственники, поездка) нет."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "ilibrary.ru"
+								}
+							],
+							"Doccount": 25,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z35F9B8B19401D946",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://ilibrary.ru/text/1288/p.1/index.html",
+									"Domain": "ilibrary.ru",
+									"Title": {
+										"Content": "С. А. Есенин. Письмо матери («Ты \u003chlword\u003eжива\u003c/hlword\u003e еще, моя старушка?..»). Текст..."
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20070614T013310",
+									"Size": 15315,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Письмо матери. Ты \u003chlword\u003eжива\u003c/hlword\u003e еще, моя старушка? \u003chlword\u003eЖив\u003c/hlword\u003e и я. Привет тебе, привет! Пусть струится над твоей избушкой Тот вечерний несказанный свет. Пишут мне, что ты, тая тревогу, Загрустила шибко обо мне, Что ты часто ходишь на дорогу В старомодном ветхом шушуне."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "zoovet.ru"
+								}
+							],
+							"Doccount": 4,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZD4890455DD3B1D24",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.zoovet.ru/forum/?tid=21\u0026tem=680169",
+									"Domain": "www.zoovet.ru",
+									"Title": {
+										"Content": "Ветеринарный форум - Как определить \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e красноухая черепаха?..."
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20120906T061907",
+									"Size": 108254,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Как определить \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e красноухая черепаха? Уважаемые посетители форума! Помните, что ответ на форуме не заменяет очного осмотра."
+											},
+											{
+												"Content": "Он умер? Максим Андреевич Щугорев. re: Как определить \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e красноухая черепаха?"
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "lineage-2.ru"
+								}
+							],
+							"Doccount": 3,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZD6784D04225A739D",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://forum.lineage-2.ru/index.php?topic=84346",
+									"Domain": "forum.lineage-2.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e ты ещё, моя старушка?"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20130704T073027",
+									"Size": 82549,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Тема: \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e ты ещё, моя старушка? (Прочитано 1494 раз). 0 Пользователей и 1 Гость смотрят эту тему."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "philosophystorm.org"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z22DCAAE75DF5742F",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://PhilosophyStorm.org/zhivet-li-zhivoe-ili-tolko-razmnozhaetsya",
+									"Domain": "PhilosophyStorm.org",
+									"Title": {
+										"Content": "Живет \u003chlword\u003eли\u003c/hlword\u003e \u003chlword\u003eживое\u003c/hlword\u003e или только размножается? | Философский штурм"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20140414T133812",
+									"Size": 366679,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "нам надо выбрать один из двух вариантов ответа: (1) необходимым признаком \u003chlword\u003eживого\u003c/hlword\u003e является репликация или (2) достаточным признаком \u003chlword\u003eживого\u003c/hlword\u003e является репликация. Любопытный подход. Прежде, чем приходить к такой дихотомии, необходимо, если твое мышление претендует на логичность, определить что же скрывается за выражением \u0026quot;живет \u003chlword\u003eли\u003c/hlword\u003e \u003chlword\u003eживое\u003c/hlword\u003e\u0026quot;."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "kinopoisk.ru"
+								}
+							],
+							"Doccount": 34565,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z49DBE3259E956B22",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.kinopoisk.ru/film/676784/",
+									"Domain": "www.kinopoisk.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖивая\u003c/hlword\u003e сталь 2"
+									},
+									"Headline": {
+										"Content": "Фантастика, боевик, драма. Продюсер: Стивен Спилберг."
+									},
+									"ModTime": "20120413T143327",
+									"Size": 67149,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": null
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "orion.su"
+								}
+							],
+							"Doccount": 22,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z758E9A626D5AB677",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.orion.su/",
+									"Domain": "www.orion.su",
+									"Title": {
+										"Content": "ОРИОН - ООО ВНПП \u003chlword\u003eЖива\u003c/hlword\u003e"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20100113T160949",
+									"Size": 35456,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "©1991-2015 ВНПП \u003chlword\u003eЖИВА\u003c/hlword\u003e."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "fincake.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZB9E070D3C3495C71",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://FinCake.ru/blogs",
+									"Domain": "FinCake.ru",
+									"Title": {
+										"Content": "Блоги — FinCake"
+									},
+									"Headline": {
+										"Content": "новости новороссии 10 02 2015 видео карта боевых действий за последний час от игоря стрелкова … Выстрел (2015) 3 и 4 серия смотреть онлайн бесплатно в хорошем сериал На первом канале 10 02…"
+									},
+									"ModTime": "20150210T030000",
+									"Size": 39074,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": null
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "soft.liveinternet.ru"
+								}
+							],
+							"Doccount": 3,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZBF6A843BBCDD9299",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://soft.liveinternet.ru/",
+									"Domain": "soft.liveinternet.ru",
+									"Title": {
+										"Content": "\u0026quot;\u003chlword\u003eЖивые\u003c/hlword\u003e программы\u0026quot; - архив программ"
+									},
+									"Headline": {
+										"Content": "Русификаторы, утилиты, игры, софт для телефонов и др. Описание программ. Возможность бесплатного скачивания."
+									},
+									"ModTime": "20131219T234058",
+									"Size": 9803,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": null
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "bolshoyvopros.ru"
+								}
+							],
+							"Doccount": 1012,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z1CB1C6EF92B4B069",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.bolshoyvopros.ru/questions/96554-mozhno-li-po-fotografii-opredelit-zhiv-li-chelovek.html",
+									"Domain": "www.bolshoyvopros.ru",
+									"Title": {
+										"Content": "Можно \u003chlword\u003eли\u003c/hlword\u003e по фотографии определить \u003chlword\u003eжив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e человек?"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20120812T120745",
+									"Size": 111341,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Вот старая фотография, и пусть те кто считает что определить это проще простого скажет, \u003chlword\u003eживы\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e те кто на фотографии, умерли \u003chlword\u003eли\u003c/hlword\u003e... Когда будет хотя бы 10 ответов (минимум для стат. оценки результатов) правильный ответ сообщу."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "travelluck.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z9AEBBD559FDE6807",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.travelluck.ru/contract/page/jiva-li-friske/",
+									"Domain": "www.travelluck.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e фриске - в вашем распоряжении."
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20141021T225119",
+									"Size": 24077,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Силами врачей, собранных добрыми людьми денег, а главноемолитвами она \u003chlword\u003eжива\u003c/hlword\u003e и борется со смертью! Жанна Фриске празднует день рождения Платона вместе с сыном и семьей. Нужны \u003chlword\u003eли\u003c/hlword\u003e Фриске деньги телезрителей?"
+											},
+											{
+												"Content": "Название файла: \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e фриске.doc Добавлено: 21.04.2012 Скорость загрузки: 9251 Кб/сек. Вирусов не обнаружено"
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "baby.ru"
+								}
+							],
+							"Doccount": 2809,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZC69DE056613D5171",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.baby.ru/blogs/post/142433284-45756126/",
+									"Domain": "www.baby.ru",
+									"Title": {
+										"Content": "Алла пугачева умерла!, пугачева умерла новости - пугачёва ушла из жизни..."
+									},
+									"Headline": {
+										"Content": "День знаний, совмещенный в этом году с Днем рождения \u003chlword\u003eМосквы\u003c/hlword\u003e, был омрачен ужасными слухами. Город всполошился от новости о том, что после кровоизлияния в мозг умерла..."
+									},
+									"ModTime": "20130310T030138",
+									"Size": 125308,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "\u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e алла пугачева последние новости."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 1,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "eli-eli.ru"
+								}
+							],
+							"Doccount": 4,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z49486E825D9B0BFD",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.eli-eli.ru/",
+									"Domain": "www.eli-eli.ru",
+									"Title": {
+										"Content": "2014 - Ели-Ели: ...\u003chlword\u003eМосква\u003c/hlword\u003e. Санкт-Петербург. | Качественные \u003chlword\u003eЖИВЫЕ\u003c/hlword\u003e ели!+..."
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20120223T070116",
+									"Size": 28221,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "2014. Добро пожаловать, только качественные \u003chlword\u003eживые\u003c/hlword\u003e елки для Вас ! Российские елки, датские ели nordmann/нордман, новогодняя сосна, лапник. В интернет-магазине можно купить срезанные датские елки. Склады: \u003chlword\u003eМосква\u003c/hlword\u003e и Санкт-Петербург."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "hrono.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZCDB6A98DCE565C7B",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.hrono.ru/0.html",
+									"Domain": "www.hrono.ru",
+									"Title": {
+										"Content": "hrono.ru/0.html"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20060802T075741",
+									"Size": 438,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": null
+									},
+									"Properties": {
+										"PassagesType": 1,
+										"Lang": ""
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "newizv.ru"
+								}
+							],
+							"Doccount": 6,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z77433A2B78D1AA09",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.newizv.ru/world/2006-08-09/51709-tainstvennyj-ostrov.html",
+									"Domain": "www.newizv.ru",
+									"Title": {
+										"Content": "...страхом расстрела запрещено задавать вопросы о том, \u003chlword\u003eжив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e Фидель..."
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20060809T040000",
+									"Size": 62940,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "На вопрос, \u003chlword\u003eжив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e кубинский лидер, источник не ответил, но сказал, что эти сведения являются государственной тайной, а за ее разглашение на Кубе могут приговорить к расстрелу. Непонятным остается и поведение нынешнего главы государства Рауля Кастро – с 1 августа он не только не появлялся на публике, но даже не сделал никаких заявлений по поводу того, что происходит на Кубе."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "traffim.com"
+								}
+							],
+							"Doccount": 4,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z41A868F66DEBEE0B",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://traffim.com/economics/",
+									"Domain": "traffim.com",
+									"Title": {
+										"Content": "Экономика - traffim.com"
+									},
+									"Headline": {
+										"Content": "Министр пообещал: гривна скоро вырастет. Минэкономразвития делает прогнозы относительно курса гривны дальше."
+									},
+									"ModTime": "20130128T223620",
+									"Size": 58010,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": null
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "imhonet.ru"
+								}
+							],
+							"Doccount": 2419,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z6F9FE2E7C18EA15E",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://films.imhonet.ru/",
+									"Domain": "films.imhonet.ru",
+									"Title": {
+										"Content": "Фильмы на Имхонете"
+									},
+									"Headline": {
+										"Content": "Отзывы, рецензии, рейтинги и персональные рекомендации по фильмам. Киноафиша. Поиск по каталогу актеров и жанрам."
+									},
+									"ModTime": "20070911T195628",
+									"Size": 450079,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": null
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "wikipedia.org"
+								}
+							],
+							"Doccount": 21163,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z76A8639228D357FA",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://ru.wikipedia.org/?l=",
+									"Domain": "ru.wikipedia.org",
+									"Title": {
+										"Content": "Википедия — свободная энциклопедия"
+									},
+									"Headline": {
+										"Content": "Спутниковая фотография острова Чеджудо в Корейском проливе. Просмотр."
+									},
+									"ModTime": "20110922T145119",
+									"Size": 116523,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": null
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "academic.ru"
+								}
+							],
+							"Doccount": 18,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z93C22798A446CDE9",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://livespeak.academic.ru/",
+									"Domain": "livespeak.academic.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖивая\u003c/hlword\u003e речь. Словарь разговорных выражений"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20110908T084206",
+									"Size": 0,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "\u003chlword\u003eЖивая\u003c/hlword\u003e речь: словарь разговорных выражений /."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 1,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "znanija.com"
+								}
+							],
+							"Doccount": 21728,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z52922EDEC0DEFBA5",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://znanija.com/",
+									"Domain": "znanija.com",
+									"Title": {
+										"Content": "Школьные Знания.com - Эффективное обучение в группе"
+									},
+									"Headline": {
+										"Content": "Школьные знания.com это сервис в котором пользователи бесплатно помогают друг другу с учебой, обмениваются знаниями, опытом и взглядами."
+									},
+									"ModTime": "20100917T103059",
+									"Size": 149067,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": null
+									},
+									"Properties": {
+										"PassagesType": 1,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "sibvaleo.com"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z1EDC5C00B6F13301",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "https://www.sibvaleo.com/de/",
+									"Domain": "www.sibvaleo.com",
+									"Title": {
+										"Content": "sibvaleo"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20101011T122322",
+									"Size": 573,
+									"Charset": "windows-1252",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "\u003chlword\u003eЖивая\u003c/hlword\u003e клетка - IV."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 1,
+										"Lang": "en"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "rg.ru"
+								}
+							],
+							"Doccount": 14,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZF7C6C84B45335731",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.rg.ru/index.asp",
+									"Domain": "www.rg.ru",
+									"Title": {
+										"Content": "Российская газета"
+									},
+									"Headline": {
+										"Content": "Российская газета - издание Правительства Российской Федерации, официальный публикатор документов..."
+									},
+									"ModTime": "20061112T044255",
+									"Size": 153763,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": null
+									},
+									"Properties": {
+										"PassagesType": 1,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "worldofnature.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZF2EC2DF8987C660F",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.worldofnature.ru/index.php?name=news\u0026news_id=294",
+									"Domain": "www.worldofnature.ru",
+									"Title": {
+										"Content": "Введение — Мир Природы - энциклопедия для детей"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20100318T093951",
+									"Size": 17321,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "\u003chlword\u003eЖивой\u003c/hlword\u003e мир по алфавиту."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "www.liveinternet.ru"
+								}
+							],
+							"Doccount": 9197,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZDFD559F7EB60D76C",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.liveinternet.ru/adv1.html",
+									"Domain": "www.liveinternet.ru",
+									"Title": {
+										"Content": "Дневники"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20061119T020039",
+									"Size": 127,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "я \u003chlword\u003eжива\u003c/hlword\u003e и мертва - Самое интересное в блогах."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 1,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "9may.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z7AEB037FA82921F2",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.9may.ru/",
+									"Domain": "www.9may.ru",
+									"Title": {
+										"Content": "\u0026quot;Наша победа. День за днем\u0026quot; - проект о ВОВ"
+									},
+									"Headline": {
+										"Content": "Хроника последнего года войны: ежедневно публикуются сводки Совинформбюро, а также фронтовые истории, рассказы и фотографии, присылаемые читателями. Плакаты, фотоленты, песни военных лет."
+									},
+									"ModTime": "20070509T040000",
+									"Size": 612,
+									"Charset": "windows-1252",
+									"Passages": {
+										"Passage": null
+									},
+									"Properties": {
+										"PassagesType": 1,
+										"Lang": "en"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "theoc.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZB1C45B2A3307EF4B",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.theoc.ru/Rezhisser_Igli_rasskazhet_ZHiv_li_Viktor_TSoy.html",
+									"Domain": "www.theoc.ru",
+									"Title": {
+										"Content": "Режиссер \u0026quot;Иглы\u0026quot; расскажет \u0026quot;\u003chlword\u003eЖив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e Виктор Цой?\u0026quot;"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20110218T223259",
+									"Size": 13701,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Нугманов обещает дать ответ на многие вопросы, среди которых вопрос \u0026quot;\u003chlword\u003eЖив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e Виктор?\u0026quot;. Отметим, что ранее создатель \u0026quot;Иглы\u0026quot; обещал снять римейк картины, использовав кадры из оригинального фильма и рабочие моменты съемок. Предполагалось, что в картине будут заняты Александр Баширов, Марина Смирнова, сыгравшая главную героиню в \u0026quot;Игле\u0026quot;, Петр Мамонов и другие актеры."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "72v.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZB0FA864046DF9BC5",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://72v.ru/mobilnye-igry-zhivy-li/",
+									"Domain": "72v.ru",
+									"Title": {
+										"Content": "Мобильные игры. \u003chlword\u003eЖивы\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e?"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20110219T052748",
+									"Size": 46878,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Просматривая различные подкасты, я заметил, что люди все чаще начали упоминать тему мобильных игр, причем весьма оптимистично. В связи с этим захотелось высказать и свое мнение по ним… Как ни странно, а большинство из нас все-таки уверенны, что они мертвы, хотя это так и есть, но все же надежда на более светлое будущее еще \u003chlword\u003eжива\u003c/hlword\u003e."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "treedoctor.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z1B4D728575667121",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.treedoctor.ru/forum/Treedoctor/read.php?id_forum=1\u0026id_theme=1259",
+									"Domain": "www.treedoctor.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e сосна?"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20080705T054410",
+									"Size": 17786,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "На вид он \u003chlword\u003eживой\u003c/hlword\u003e - упругий, светлый, жилистый такой. 12 часов держала сосну в растворе Эпина (Экстра) - я не знала тогда, что Эпин не работает по корням, по кроне - пролила тоже Эпином, высадила в смесь песок+лесная земля+ рыжий измельчённый торф, замульчировала, пролила, притенила. Дождевание и полив сейчас совершает погода."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "digitalserv.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z238690A3E3B891FB",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.digitalserv.ru/spisok-vesov",
+									"Domain": "www.digitalserv.ru",
+									"Title": {
+										"Content": "Список весов | ООО \u0026quot;Рустехпром\u0026quot;"
+									},
+									"Headline": {
+										"Content": "Список весов. Электронные весы стали практически незаменимым устройством в торговле и не только. Часто данный прибор используют просто на дому, чтобы обеспечить, к примеру, правильную пропорциональность при готовке различных блюд. Также весы применяются..."
+									},
+									"ModTime": "20121210T131421",
+									"Size": 38656,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": null
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "baskino.com"
+								}
+							],
+							"Doccount": 167,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z0F6AF8BE37C885E0",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://baskino.com/actors/%C4%E6%E5%F2+%CB%E8",
+									"Domain": "baskino.com",
+									"Title": {
+										"Content": "Фильмы с Джет \u003chlword\u003eЛи\u003c/hlword\u003e - смотреть онлайн бесплатно в хорошем качестве"
+									},
+									"Headline": {
+										"Content": "Смотрите онлайн все фильмы с участием Джет \u003chlword\u003eЛи\u003c/hlword\u003e в хорошем HD качестве совершенно бесплатно и без регистрации..."
+									},
+									"ModTime": "20130605T085057",
+									"Size": 57180,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": null
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "cerkov.ru"
+								}
+							],
+							"Doccount": 3,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z0F8E269C24DC90CB",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://hramkurii.cerkov.ru/blog-o-aleksandra/zhivy-li-vy-zhivye.html",
+									"Domain": "hramkurii.cerkov.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖивы\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e вы, «\u003chlword\u003eживые\u003c/hlword\u003e»? - Храм Святой Троицы села Курьи Сухоложкого..."
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20140312T214904",
+									"Size": 84882,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Но главное, что мы заметили после его второго рождения, – изменился его взгляд. В его глазах пропала, привычная, \u003chlword\u003eживая\u003c/hlword\u003e искорка. Глаза его сделались какими то бездонно мутными. Сказать проще, это были глаза мертвой собаки."
+											},
+											{
+												"Content": "- А \u003chlword\u003eжив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e я, на самом деле?"
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "tvmir.ru"
+								}
+							],
+							"Doccount": 2,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZA35F290E3AC4B7D6",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://tvmir.ru/zhivaya_priroda",
+									"Domain": "tvmir.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖивая\u003c/hlword\u003e природа"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20120601T094336",
+									"Size": 32045,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "\u003chlword\u003eЖивая\u003c/hlword\u003e природа. Смотри онлайн бесплатно видео про забавных животных. Смотри как живут животные в зоопарке."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "mustdie.ru"
+								}
+							],
+							"Doccount": 2,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z5F260B9549D112DA",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://musica.mustdie.ru/ru/topic/1307/",
+									"Domain": "musica.mustdie.ru",
+									"Title": {
+										"Content": "M-board: Morbid Angel: \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e любовь? DC | MUSICA.MUSTDIE.RU"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20010817T040000",
+									"Size": 42497,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "M-board: Morbid Angel: \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e любовь? DC Related: Morbid Angel, Gel."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "bizzon.info"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z55604362EB93BE7A",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://bizzon.info/generatsija-trafika/item/262-zhiva-li-ponyine-besplatnaya-reklama?.html",
+									"Domain": "bizzon.info",
+									"Title": {
+										"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e поныне бесплатная реклама?"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20110912T175153",
+									"Size": 35100,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Главная → Генерация трафика → \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e поныне бесплатная реклама?"
+											},
+											{
+												"Content": "Так что, друзья мои, бесплатная реклама не только еще \u003chlword\u003eжива\u003c/hlword\u003e, но и по-прежнему эффективна. Изменения коснулись лишь ее приоритетов. Разница между прошлым и нынешнем состоянием бесплатной рекламы заключается только в том, что теперь она не подается Вам сама по себе на тарелочке с голубой каемочкой."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "menshovan.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZF013BE1D352E1720",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.menshovan.ru/report/page/jiva-li-pugacheva-alla/",
+									"Domain": "www.menshovan.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e пугачева алла - Наш сайт расскажет вам про чертежи."
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20150113T032605",
+									"Size": 17020,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Обновленный материал - \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e пугачева алла. Можно дальше продолжить заняться онанизмом?"
+											},
+											{
+												"Content": "Пугачева \u003chlword\u003eжива\u003c/hlword\u003e и как известно собирается на очередные гастроли.. Алла Борисовна \u003chlword\u003eжива\u003c/hlword\u003e и помирать не собирается. Алла Борисовна - \u003chlword\u003eживая\u003c/hlword\u003e легенда постсоветского пространства. Приехавшая бригада скорой помощи не смогла ничего зделать."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "fb.ru"
+								}
+							],
+							"Doccount": 71,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZAFA5B48826131DDC",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://fb.ru/article/113141/alize-jiva-ili-net-etot-vopros-muchaet-poklonnikov-talanta-frantsuzskoy-pevitsyi",
+									"Domain": "fb.ru",
+									"Title": {
+										"Content": "Ализе \u003chlword\u003eжива\u003c/hlword\u003e или нет? Этот вопрос мучает поклонников таланта..."
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20131114T153003",
+									"Size": 33885,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "С чем связано появления в интернете и в печатной прессе странных статей с названиями \u0026quot;А \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e Ализе?\u0026quot; Наверняка это следствие недостатка информации, ведь после заключительного концерта певица посвятила себя семье: дочери и мужу. Она стала вести закрытый образ жизни и редко показывалась на людях."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "zina-blog.ru"
+								}
+							],
+							"Doccount": 2,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z4F90A6E07C18BA2D",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.zina-blog.ru/sovetyuhod/158-zhiva-umerla",
+									"Domain": "www.zina-blog.ru",
+									"Title": {
+										"Content": "Как определить - \u003chlword\u003eжива\u003c/hlword\u003e черепаха, в спячке или умерла"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20130225T010219",
+									"Size": 227426,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Как определить – \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e черепаха или умерла? А может быть, она находится в спячке? Такие вопросы появляются у многих черепаховодов рано или поздно."
+											},
+											{
+												"Content": "Но все-таки, если ваша черепаха не подает признаков жизни, попробуйте следующие приемы для того, чтобы понять – \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e она или умерла. 1) Проверьте рефлекс роговицы. Приложите металлическую ложку к глазу черепахи."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "discovery-world.ru"
+								}
+							],
+							"Doccount": 3,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z431790C602279D79",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://discovery-world.ru/video/skvoz-krotovuyu-noru-s-morganom-frimenom-zhivaya-li-vselennaya-3-sezon-3-ceriya/2080",
+									"Domain": "discovery-world.ru",
+									"Title": {
+										"Content": "Сквозь кротовую нору с Морганом Фрименом: \u003chlword\u003eЖивая\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e Вселенная?..."
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20141127T073802",
+									"Size": 22372,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Нам кажется, что мы знаем, как выглядит все \u003chlword\u003eживое\u003c/hlword\u003e. Но может \u003chlword\u003eли\u003c/hlword\u003e жизнь существовать совершенно на совершенно другом уровне: где планеты - это \u003chlword\u003eживые\u003c/hlword\u003e клетки, а черные дыры - ДНК самого космоса? Возможно \u003chlword\u003eли\u003c/hlword\u003e что тайны космоса можно раскрыть с помощью биологии, а не физики? Вселенная - это \u003chlword\u003eживой\u003c/hlword\u003e организм?"
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "vsebabochki.ru"
+								}
+							],
+							"Doccount": 7,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z3D75F38BAB480901",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://VseBabochki.ru/",
+									"Domain": "VseBabochki.ru",
+									"Title": {
+										"Content": "\u0026quot;Все бабочки\u0026quot; - продажа \u003chlword\u003eживых\u003c/hlword\u003e тропических бабочек"
+									},
+									"Headline": {
+										"Content": "Услуги: \u003chlword\u003eживой\u003c/hlword\u003e салют из бабочек, сюрприз в подарочной коробке, свадебные и банкетные композиции. Каталог бабочек. Цены. Возможность онлайн-заказа. Советы по уходу за бабочками. Адреса магазинов."
+									},
+									"ModTime": "20110325T145534",
+									"Size": 22598,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": null
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "stihi.ru"
+								}
+							],
+							"Doccount": 192,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z4334A8D035373DEB",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.stihi.ru/2011/01/09/8798",
+									"Domain": "www.stihi.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e я для тебя? (Черная Мантикора) / переводы песен / Стихи.ру..."
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20110109T234544",
+									"Size": 8633,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Мысли сводит воедино, Так грешно и так невинно. Если б только знать, Как вернуть тебя опять. \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e я для тебя? Мертва \u003chlword\u003eли\u003c/hlword\u003e я для тебя? Что же я для тебя - лишь вой в ночи? Хочешь \u003chlword\u003eли\u003c/hlword\u003e ты меня? Стонешь \u003chlword\u003eли\u003c/hlword\u003e ты любя? Помнишь \u003chlword\u003eли\u003c/hlword\u003e ты меня, иль я лишь призрак?"
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "msn-files.narod.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z8CA402099F169C41",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://MSN-files.narod.ru/statja21-intervyu-s-m-s-norbekovym-zhiva-li-vasha-dusha.html",
+									"Domain": "MSN-files.narod.ru",
+									"Title": {
+										"Content": "Интервью с М.С. Норбековым. \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e Ваша душа"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20110323T145813",
+									"Size": 35601,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e Ваша душа. Работа журналиста давно сделала меня скептиком, не верящим никаким чудесам. И хотя имя доктора Норбекова мне приходилось слышать не раз, к историям о чудесных выздоровлениях его пациентов я относилась с недоверием."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "inmsk.ru"
+								}
+							],
+							"Doccount": 4,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z53D196E7403FC72D",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://inmsk.ru/askpolice_answers/20130430/363228655.html",
+									"Domain": "inmsk.ru",
+									"Title": {
+										"Content": "Как можно узнать, \u003chlword\u003eжив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e человек? | Ответы на вопросы | В \u003chlword\u003eМоскве\u003c/hlword\u003e"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20130430T040000",
+									"Size": 72009,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Мой отец живет в \u003chlword\u003eМоскве\u003c/hlword\u003e, но я с ним не общаюсь, хотелось бы узнать, \u003chlword\u003eжив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e он. Приехать в \u003chlword\u003eМоскву\u003c/hlword\u003e нет возможности, живу я в Ставропольском крае. У меня маленький ребенок, я сейчас в отпуске до достижения ребенка возраста 1,5 лет. Куда мне нужно обращаться, чтобы выяснить, \u003chlword\u003eжив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e мой отец? Гусева Галина."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "artmagik.ru"
+								}
+							],
+							"Doccount": 4,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZCB0A7398069F572C",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://artmagik.ru/index.php/topic/712-zhiv-li-chelovek/",
+									"Domain": "artmagik.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e человек? | Форум"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20120906T095540",
+									"Size": 121043,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Посмотреть по фото \u003chlword\u003eжив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e этот парень."
+											},
+											{
+												"Content": "Лейла, мне жаль, но похоже, что нет его среди \u003chlword\u003eживых\u003c/hlword\u003e. Но, вдруг ошиблась. Может еще кто-то посмотрит."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "foru.ru"
+								}
+							],
+							"Doccount": 2,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z542478B6E8ECE746",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.foru.ru/slovo.40013.5.html",
+									"Domain": "www.foru.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e мама? \u003chlword\u003eЖив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e oтец?? - Цветов Андрей"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20120312T001152",
+									"Size": 24853,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e мама? \u003chlword\u003eЖив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e oтец?? Иосиф (по книге \u0026quot;Бытие\u0026quot;). Иосиф - это механизмы сердца, это воистину царь Египетский."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "my-hit.org"
+								}
+							],
+							"Doccount": 1921,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZCA3C3EE96015972A",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "https://my-hit.org/star/46627/",
+									"Domain": "my-hit.org",
+									"Title": {
+										"Content": "Джеки Чан"
+									},
+									"Headline": {
+										"Content": "Джеки Чан (Jackie Chan) родился в 1954-м, сын бедной пары, приехавшей в Гонконг из китайской провинции Шандонг. Когда он родился, его родители не смогли найти денег даже на оплату больничного счета, и были вынуждены оставить ребенка доктору, принимавшему роды."
+									},
+									"ModTime": "20131011T155155",
+									"Size": 45019,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": null
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "ohot-prostory.ru"
+								}
+							],
+							"Doccount": 2,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZAC3F2A52F6D8E68A",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.ohot-prostory.ru/index.php?option=com_content\u0026task=view\u0026id=1409",
+									"Domain": "www.ohot-prostory.ru",
+									"Title": {
+										"Content": "Издательство охотничьей литературы ЭРА - А \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e охотничья..."
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20091121T030000",
+									"Size": 38431,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "А \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e охотничья литература?"
+											},
+											{
+												"Content": "Что ж, можно только позавидовать европейским охотникам — они могут познакомиться с редчайшими книгами — \u003chlword\u003eживыми\u003c/hlword\u003e свидетелями канувших в Лету эпох. Если В. Штейнбах затевал подобное мероприятие в России, то не лучше \u003chlword\u003eли\u003c/hlword\u003e было начать с переиздания самых первых русских охотничьих книг Л. Краузольда, с которых начат рассказ матерого библиофила в этом номере альманаха?"
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "russky-dvorik.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z489E3113B0D96C3B",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.russky-dvorik.ru/books/da-i-zhiva-li-ona.html.html",
+									"Domain": "www.russky-dvorik.ru",
+									"Title": {
+										"Content": "Да и \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e она | Moscow - Berlin"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20140323T005345",
+									"Size": 28581,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "- Похоже, что мы столкнулись с профессионалом. Но что ему нужно от четырнадцатилетней девочки? Да и \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e она вообще?.."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "operanews.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZA81D4837C34F6381",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.operanews.ru/13122205.html",
+									"Domain": "www.operanews.ru",
+									"Title": {
+										"Content": "Московские впечатления и мысли на тему «\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e опера» | OperaNews.ru"
+									},
+									"Headline": {
+										"Content": "Наш автор Антон Гопко прислал в редакцию статью, где поделился своими мыслями о судьбах современного оперного искусства. Субъективная интонация не мешает, а может быть даже и помогает этим размышлениям быть весьма оригинальными и интересными."
+									},
+									"ModTime": "20131225T084946",
+									"Size": 67907,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": null
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "premieram.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z451DE8A7CACD8D83",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.premieram.ru/video-o-literature/zhiva-li-khudozhestvennaja-literatura.html",
+									"Domain": "www.premieram.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e художественная литература | Премьера - мир семьи"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20131001T091658",
+									"Size": 31367,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e художественная литература. Гость программы Павел Басинский, писатель, литературовед, критик, член Российского Союза писателей."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "cbio.ru"
+								}
+							],
+							"Doccount": 2,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z516F8D98A781DB39",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://cbio.ru/page/44/id/2563/",
+									"Domain": "cbio.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e еще наука в России?. CBio.ru"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20120816T045329",
+									"Size": 29840,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e еще наука в России? 06.05.2006 2349 0. Александра Давыдова, Астраханский государственный технический университет, 5 курс, факультет биологии и природопользования lexx84@list.ru."
+											},
+											{
+												"Content": "– информационные технологии и электроника – 10; – производственные технологии – 9; – новые материалы и химические продукты – 10; – технологии \u003chlword\u003eживых\u003c/hlword\u003e систем – 14; – транспорт – 5; – топливо и энергетика – 16; – экология и рациональное природопользование..."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "magnitola.org"
+								}
+							],
+							"Doccount": 3,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZB0AC940CD39DF03D",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://magnitola.org/byudzhetnyi-zvuk/18070-zhiva-li-akustika.html",
+									"Domain": "magnitola.org",
+									"Title": {
+										"Content": "\u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e акустика | Форум"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20111012T180450",
+									"Size": 87040,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Нельзяли как нибудь определить \u003chlword\u003eживы\u003c/hlword\u003e ещё динамики или нет? Может померить сопротивление динамиков, можно \u003chlword\u003eли\u003c/hlword\u003e таким способом понять \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e обмотка? Кто знает подскажите!"
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "computerra.ru"
+								}
+							],
+							"Doccount": 6,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZD3185260AFD1D352",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://old.computerra.ru/2001/402/10981/",
+									"Domain": "old.computerra.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e кибернетика? - Журнал \u0026quot;Компьютерра\u0026quot;"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20130206T061313",
+									"Size": 40187,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e кибернетика? Опубликовано в журнале \u0026quot;Компьютерра\u0026quot; №25 от 04 июля 2001 года Автор: Дмитрий Коровин | Раздел: ВОПРОС НЕДЕЛИ."
+											},
+											{
+												"Content": "Я \u003chlword\u003eжива\u003c/hlword\u003e. И не дождетесь. Александр Брагинский профессор кафедры технологии машиностроения МИИТ. Думаю, что как самостоятельная наука кибернетика больше не существует."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "yandex.ru"
+								}
+							],
+							"Doccount": 184,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z83B5DCA6FFD9F31A",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "https://afisha.yandex.ru/msk/events/?category=art\u0026page=2",
+									"Domain": "afisha.yandex.ru",
+									"Title": {
+										"Content": "Выставки в \u003chlword\u003eМоскве\u003c/hlword\u003e – Яндекс.Афиша"
+									},
+									"Headline": {
+										"Content": "место. Сады Эремитов. современное искусство. ММСИ на Тверском."
+									},
+									"ModTime": "20130801T164850",
+									"Size": 50499,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": null
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "zooserver.ru"
+								}
+							],
+							"Doccount": 13,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZEC6D6C77A849CA56",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.zooserver.ru/pticy_soderjanie/view/2537/",
+									"Domain": "www.zooserver.ru",
+									"Title": {
+										"Content": "Как можно определить \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e черепаха? | Бесплатная консультация..."
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20091214T030000",
+									"Size": 211,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Как можно определить \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eЛи\u003c/hlword\u003e Черепаха или она в спячке,я купила Черепаху 20 января,она спала,когда принесла домой она отогрелась и двигалась."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "darial-online.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z9B174B0203E836F1",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.darial-online.ru/2011_2/martirosian.shtml",
+									"Domain": "www.darial-online.ru",
+									"Title": {
+										"Content": "Оганес МАРТИРОСЯН // \u003chlword\u003eЖИВА\u003c/hlword\u003e \u003chlword\u003eЛИ\u003c/hlword\u003e ТЫ?"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20110405T153517",
+									"Size": 6238,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Оганес МАРТИРОСЯН. \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eЛи\u003c/hlword\u003e Ты? Выпьем пива – и умрем, и – об стол звенящей кружкой. Паровозиком живем, друг за дружкой вслед идем, умираем друг за дружкой. В лес уходим по гроба, по гроба всего \u003chlword\u003eживого\u003c/hlword\u003e. Смерть, свобода и борьба – только три я знаю слова. Как блокадник просит хлеба, я живу."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "rusoldat.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZF2F77CBA10E8F13F",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.rusoldat.ru/zhivo-li-kreditovanie-v-rossii.htm",
+									"Domain": "www.rusoldat.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖиво\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e кредитование в России?"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20091226T030000",
+									"Size": 37931,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "\u003chlword\u003eЖиво\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e кредитование в России? Правда \u003chlword\u003eли\u003c/hlword\u003e, что «кредитный бум» в России уже прошел? Правда \u003chlword\u003eли\u003c/hlword\u003e, что люди теперь предпочитают не связываться с кредитами, а копить нужные суммы денег?"
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "ria.ru"
+								}
+							],
+							"Doccount": 4043,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZFB4D811FF1B33F33",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://ria.ru/world/20081221/157777490.html",
+									"Domain": "ria.ru",
+									"Title": {
+										"Content": "Вице-президент США не знает, \u003chlword\u003eжив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e бен Ладен - агентство | РИА Новости"
+									},
+									"Headline": {
+										"Content": "По словам Ричарда Чейни, время от времени разведка получает некоторые данные, публикуются фотографии или другая информация, позволяющая в разведывательных кругах судить об этом."
+									},
+									"ModTime": "20120926T045123",
+									"Size": 130133,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": null
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "bossmag.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZAC681655EB0B18DE",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.bossmag.ru/archiv/2013/boss-03-2013-g/%D0%B6%D0%B8%D0%B2%D0%B0-%D0%BB%D0%B8-%D0%BB%D0%BE%D1%88%D0%B0%D0%B4%D1%8C.html",
+									"Domain": "www.bossmag.ru",
+									"Title": {
+										"Content": "Журнал БОСС - \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e лошадь?"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20130423T032640",
+									"Size": 47309,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Круглосуточно. cpkmagistr.ru. \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e лошадь? Рубрика | Cюжет месяца/Деловой климат."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "caves.ru"
+								}
+							],
+							"Doccount": 2,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZCB75E05DD7BBA4D6",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://caves.ru/threads/27782-%D0%96%D0%B8%D0%B2%D0%B0-%D0%BB%D0%B8-%D0%BF%D0%B5%D0%B9%D0%B4%D0%B6%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C-%D0%B2-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5",
+									"Domain": "caves.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e пейджинговая связь в \u003chlword\u003eМоскве\u003c/hlword\u003e? | Форум"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20120416T160005",
+									"Size": 107625,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Мож кто в курсе? \u003chlword\u003eЖив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e хоть один пейджинговый оператор в столице? А то ностальгия замучила - пролюбил мобилу - пейджер купить хочу))."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "hd-vipserver.com"
+								}
+							],
+							"Doccount": 2,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZF2034B64C0C339F9",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://hd-vipserver.com/online/q-661149-%D0%96%D0%B8%D0%B2+%D0%BB%D0%B8/",
+									"Domain": "hd-vipserver.com",
+									"Title": {
+										"Content": "\u003chlword\u003eЖив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e смотреть онлайн в хорошем качестве"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20140220T050502",
+									"Size": 243878,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "\u003chlword\u003eЖив\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e. Строгие правила классического ландшафта. \u003chlword\u003eЖивы\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e они в современном искусстве? 00:00. Добавлено 5 месяцев назад. Художник Александр Евгеньевич Пономарёв."
+											},
+											{
+												"Content": "\u003chlword\u003eЖивы\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e они в современном искусстве? Сквозь кроличью нору: \u003chlword\u003eЖивая\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e Вселенная? 42:35. Добавлено 3 месяцев назад. От крошечного микроба до высокого дерева. Нам кажется, что мы знаем, как выглядит все \u003chlword\u003eживое\u003c/hlword\u003e."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "sharmulia.livejournal.com"
+								}
+							],
+							"Doccount": 2,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z25AB0F7A530FE079",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://sharmulia.livejournal.com/",
+									"Domain": "sharmulia.livejournal.com",
+									"Title": {
+										"Content": "Один мой день"
+									},
+									"Headline": {
+										"Content": "Приветик! Обследование прошла. Жду последний результат анализа крови. Признаки реактивных изменений печени и перегиб желчного пузыря. Это единственное, что восприняла адекватно и записала в подкорке.Все остальное - умно на бумажке у врача, в которой я ни черта..."
+									},
+									"ModTime": "20131026T153210",
+									"Size": 113415,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": null
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "textpesni.com"
+								}
+							],
+							"Doccount": 60,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZEE385C10ADD98445",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://textpesni.com/zhiva-li-alla-pugacheva-segodnya/",
+									"Domain": "textpesni.com",
+									"Title": {
+										"Content": "\u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e алла пугачева сегодня |Текст песни. Тексты песен. Слова песен."
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20141115T074359",
+									"Size": 21389,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "\u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e алла пугачева сегодня. Оставьте ваш комментарий: Разделы сайта"
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "kinnet.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z20AF5D9A24681D90",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.kinnet.ru/cterra/402/10981.html",
+									"Domain": "www.kinnet.ru",
+									"Title": {
+										"Content": "КомпьюТерра / Свежий номер / 2001 / №25 / \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e кибернетика?"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20061115T033006",
+									"Size": 8739,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "Свежий номер №25 (402) / \u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e кибернетика? Дата публикации: 04.07.2001. Дмитрий Коровин, dkor@computerra.ru."
+											},
+											{
+												"Content": "Я \u003chlword\u003eжива\u003c/hlword\u003e. И не дождетесь. Александр Брагинский профессор кафедры технологии машиностроения МИИТ. Думаю, что как самостоятельная наука кибернетика больше не существует."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "press-report.ru"
+								}
+							],
+							"Doccount": 20,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z99F6016EF1E6591F",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://www.press-report.ru/iva-li-doc-lii-vsocko",
+									"Domain": "www.press-report.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e дочь юлии высоцкой? - Press Report"
+									},
+									"Headline": {
+										"Content": "Press Report \u003chlword\u003eжива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e дочь юлии высоцкой?, Press report, каталог постоянно обновляется источников новостей."
+									},
+									"ModTime": "20140205T040000",
+									"Size": 43969,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": null
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "pravkamchatka.ru"
+								}
+							],
+							"Doccount": 3,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "Z760A37C1F20C1A64",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://blogs.pravkamchatka.ru/raduga/2009/02/25/%d0%b6%d0%b8%d0%b2%d0%b0-%d0%bb%d0%b8-%d0%b1%d0%b0%d1%80%d0%b4%d0%be%d0%b2%d1%81%d0%ba%d0%b0%d1%8f-%d0%bf%d0%b5%d1%81%d0%bd%d1%8f/",
+									"Domain": "blogs.pravkamchatka.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖИВА\u003c/hlword\u003e \u003chlword\u003eЛИ\u003c/hlword\u003e БАРДОВСКАЯ ПЕСНЯ ? « Постоять на радуге"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20090225T030000",
+									"Size": 37681,
+									"Charset": "utf-8",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eЛи\u003c/hlword\u003e Бардовская песня ? На Камчатке всегда любили бардовские песни, ее романтическая земля всегда рождала много авторов исполнителей и талантливых поэтов. В восьмидесятые годы активисты песенного движения объединились в Клуб самодеятельной песни – КСП."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						},
+						{
+							"Categ": [
+								{
+									"Categ": "",
+									"Attr": "d",
+									"Name": "madelectronics.ru"
+								}
+							],
+							"Doccount": 1,
+							"Relevance": {
+								"Relevance": "",
+								"Priority": ""
+							},
+							"Doc": [
+								{
+									"Id": "ZB2E016923EF0793D",
+									"Relevance": {
+										"Relevance": "",
+										"Priority": ""
+									},
+									"URL": "http://MadElectronics.ru/uchebnik/4.10.22.htm",
+									"Domain": "MadElectronics.ru",
+									"Title": {
+										"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e еще батарейка?"
+									},
+									"Headline": {
+										"Content": ""
+									},
+									"ModTime": "20101015T213456",
+									"Size": 24402,
+									"Charset": "windows-1251",
+									"Passages": {
+										"Passage": [
+											{
+												"Content": "\u003chlword\u003eЖива\u003c/hlword\u003e \u003chlword\u003eли\u003c/hlword\u003e еще батарейка? Допустим, у вас уже накопился полный ящик севших батареек, и вам непременно хочется узнать, сколько же напряжения может дать хотя бы одна из них. Простейший тест, который можно провести при помощи осциллографа, как раз и заключается в измерении напряжения."
+											}
+										]
+									},
+									"Properties": {
+										"PassagesType": 0,
+										"Lang": "ru"
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	}
+}
